@@ -28,7 +28,7 @@ To run the Rushi Grid Game, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Rushi0535/RL-Game.git
-   cd rushi-grid-game
+   cd rushi-grid-game ```
 
 Ensure you have Python installed with the necessary libraries:
 1.Tkinter
@@ -37,9 +37,8 @@ Ensure you have Python installed with the necessary libraries:
 ## Running the Game
 Execute the script to start the game:
    ```bash
-   python grid_game.py
-
-
+   python grid_game.py 
+```
 ## Contribution
 Interested in contributing? Great! Here's how you can:
 
