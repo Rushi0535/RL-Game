@@ -5,7 +5,9 @@ The Rushi Grid Game is a reinforcement learning demonstration where an agent nam
 
 ## Game GUI
 Here is what the game looks like:
+
 ![rl game 1](https://github.com/Rushi0535/RL-Game/assets/91430545/8372fe6d-a759-4442-9c56-f732d092568b)
+
 ![rl game 2](https://github.com/Rushi0535/RL-Game/assets/91430545/d646485f-a44e-4855-bfbf-01f8fe355f10)
 
 ## Features
