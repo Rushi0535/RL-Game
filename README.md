@@ -4,11 +4,11 @@
 The Rushi Grid Game is a reinforcement learning demonstration where an agent named Rushi navigates through a grid to reach a target, named Sleep, while avoiding obstacles. This project illustrates the implementation of the Q-learning algorithm in a simple and interactive way.
 
 # Features
-- Interactive Grid Environment
-- Agent named Rushi navigating to reach Sleep
-- Obstacles like Instagram, Movies, and YouTube
-- Reinforcement Learning using Q-learning
-- Visual representation of the agent's learning process
+- Interactive Grid Environment.
+- Agent named Rushi navigating to reach Sleep.
+- Obstacles like Instagram, Movies, and YouTube.
+- Reinforcement Learning using Q-learning.
+- Visual representation of the agent's learning process.
 
 # How It Works
 Rushi starts at the top-left corner of the grid and aims to reach Sleep located at the bottom-right corner. The grid has obstacles that Rushi must avoid to reach the target successfully.
