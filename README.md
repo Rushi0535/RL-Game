@@ -6,7 +6,7 @@ The Rushi Grid Game is a reinforcement learning demonstration where an agent nam
 # Features
 - Interactive Grid Environment.
 - Agent named Rushi navigating to reach Sleep.
-- Obstacles like Instagram, Movies, and YouTube.
+- Obstacles like Instagram, Movies, and YouTube
 - Reinforcement Learning using Q-learning.
 - Visual representation of the agent's learning process.
 
